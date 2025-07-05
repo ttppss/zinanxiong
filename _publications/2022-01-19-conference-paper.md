@@ -1,5 +1,6 @@
 ---
 title: "Swin-Pose: Swin Transformer Based Human Pose Estimation"
+authors: ["Zinan Xiong", "Chenxi Wang", "Ying Li", "Yan Luo", "Yu Cao"]
 collection: publications
 category: conferences
 permalink: /publication/2022-01-19-conference-paper
