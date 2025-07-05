@@ -7,6 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+Dr. Xiong​ is currently a Postdoctoral Researcher at the Peng Cheng National Laboratory, where he conducts cutting-edge research at the intersection of artificial intelligence and medical imaging. He received his Ph.D. in ​Computer Science and Technology​ from the ​University of Massachusetts Lowell (USA)​​ in February 2025, following his ​M.S. in Electrical and Computer Engineering​ from ​Northeastern University (USA)​ and his ​B.Eng. in Electrical Engineering​ from ​Beijing University of Chemical Technology.
+
+His research primarily focuses on ​AI-driven medical computer vision, with specialized expertise in ​large foundation models, deep learning-based lesion detection, and generative AI for healthcare applications. During his doctoral studies, he established ​long-term collaborations​ with leading medical institutions in China, including ​Peking Union Medical College Hospital (PUMCH)​​ and ​Xiangya Hospital, working closely with clinicians to develop ​AI-assisted diagnostic systems​ for:
+
+​Gastrointestinal polyp recognition, detection, and segmentation​ (endoscopic imaging)
+​Gastritis classification​ (histopathology and endoscopic analysis)
+​Breast and thyroid ultrasound lesion identification​ (multi-modal imaging)
+​Rare disease data augmentation​ using generative adversarial networks (GANs)
+A significant portion of his work involves ​addressing data scarcity in medical AI​ through ​synthetic image generation. He has pioneered techniques for ​creating high-fidelity synthetic lesions​ (e.g., gastric cancer, rare tumors) using ​diffusion models and GANs, enabling robust model training where real-world datasets are limited. His research has been published in ​top-tier conferences and journals​ (e.g., MICCAI, IEEE TMI, CVPR) and has contributed to ​FDA-cleared AI diagnostic tools​ currently in clinical trials.
+
+Beyond his technical contributions, Dr. Xiong actively participates in the ​AI in Medicine​ research community, serving as a ​reviewer for IEEE Transactions on Medical Imaging (TMI)​​ and mentoring graduate students in ​applied machine learning. His work bridges the gap between ​theoretical AI advancements​ and ​real-world clinical deployment, with a strong emphasis on ​interpretability, fairness, and regulatory compliance​ in medical AI systems.
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
