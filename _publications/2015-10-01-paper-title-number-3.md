@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "TransNet: Parallel encoder architecture for human pose estimation"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2023-6-01
+venue: 'Smart Health'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2352648323000235'
+citation: 'Wang, Chenxi, Zinan Xiong, Ying Li, Yan Luo, and Yu Cao. "TransNet: Parallel encoder architecture for human pose estimation." Smart Health 28 (2023): 100395.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
