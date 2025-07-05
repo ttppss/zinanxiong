@@ -1,5 +1,5 @@
 ---
-title: "Swin-Pose: Swin Transformer Based Human Pose Estimation"
+title: "Deep Learning Assisted Mouth-Esophagus Passage Time Estimation During Gastroscopy"
 collection: publications
 category: conferences
 permalink: /publication/2022-10-31-conference-paper
