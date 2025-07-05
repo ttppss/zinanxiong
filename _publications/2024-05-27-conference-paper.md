@@ -1,5 +1,6 @@
 ---
 title: "Adaptify: A Refined Test-Time Adaptation Scheme for Frame Classification Consistency in Atrophic Gastritis Videos"
+authors: ["Zinan Xiong", "Shuijiao Chen", "Yizhe Zhang", "Yu Cao", "Benyuan Liu", "Xiaowei Liu"]
 collection: publications
 category: conferences
 permalink: /publication/2024-05-27-conference-paper
