@@ -1,5 +1,6 @@
 ---
 title: "A deep learning-enhanced multi-modal sensing platform for robust human object detection and tracking in challenging environments"
+authors: ["Peng Cheng", "Zinan Xiong", "Yajie Bao", "Ping Zhuang", "Yunqi Zhang", "Erik Blasch", "Genshe Chen"]
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
