@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A deep learning-enhanced multi-modal sensing platform for robust human object detection and tracking in challenging environments"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+# excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+date: 2023-08-12
+venue: 'Electronics'
+paperurl: 'https://www.mdpi.com/2079-9292/12/16/3423'
+citation: 'Cheng, Peng, Zinan Xiong, Yajie Bao, Ping Zhuang, Yunqi Zhang, Erik Blasch, and Genshe Chen. 2023. "A Deep Learning-Enhanced Multi-Modal Sensing Platform for Robust Human Object Detection and Tracking in Challenging Environments" Electronics 12, no. 16: 3423. https://doi.org/10.3390/electronics12163423'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
