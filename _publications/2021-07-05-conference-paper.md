@@ -1,7 +1,7 @@
 ---
 title: "Lower body rehabilitation dataset and model optimization"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-07-05-conference-paper
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-07-05
