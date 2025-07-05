@@ -1,5 +1,6 @@
 ---
 title: "Deep Learning Assisted Mouth-Esophagus Passage Time Estimation During Gastroscopy"
+authors: ["Zinan Xiong", "Qilei Chen", "Chenxi Zhang", "Yu Cao", "Benyuan Liu", "Yu Wu", "Yu Peng", "Xiaowei Liu"]
 collection: publications
 category: conferences
 permalink: /publication/2022-10-31-conference-paper
