@@ -1,5 +1,6 @@
 ---
 title: "TransNet: Parallel encoder architecture for human pose estimation"
+authors: ["Chenxi Wang", "Zinan Xiong", "Ying Li", "Yan Luo", "Yu Cao"]
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
