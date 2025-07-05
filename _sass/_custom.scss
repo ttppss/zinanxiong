@@ -1,0 +1,48 @@
+/* 教育时间线样式 */
+.education-timeline {
+  position: relative;
+  padding-left: 30px;
+  border-left: 3px solid #2a7ae2;
+  margin-left: 15px;
+  
+  h3 {
+    margin-top: 0;
+    color: #2a7ae2;
+    i {
+      margin-right: 10px;
+    }
+  }
+  
+  .education-details {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0 25px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    
+    ul {
+      margin-bottom: 0;
+    }
+  }
+  
+  .research-tag {
+    display: inline-block;
+    background: #e3f2fd;
+    padding: 3px 10px;
+    margin: 3px;
+    border-radius: 15px;
+    font-size: 0.85em;
+    
+    i {
+      margin-right: 5px;
+      color: #2a7ae2;
+    }
+  }
+  
+  hr {
+    margin: 25px 0;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(42,122,226,0.5), rgba(0,0,0,0));
+  }
+}
