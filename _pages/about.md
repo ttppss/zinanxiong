@@ -32,7 +32,4 @@ Education Background
 *Beijing University of Chemical Technology, Beijing, China*  
 `2009 - 2013`
 
-## Education Background
-{: .text-center}
-
 
