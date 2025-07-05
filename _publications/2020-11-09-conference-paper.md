@@ -1,5 +1,6 @@
 ---
 title: "Colorectal polyp detection in real-world scenario: Design and experiment study"
+authors: ["Xinzi Sun", "Dechun Wang", "Chenxi Zhang", "Pengfei Zhang", "Zinan Xiong", "Yu Cao", "Benyuan Liu", "Xiaowei Liu", "Shuijiao Chen"]
 collection: publications
 category: conferences
 permalink: /publication/2020-11-09-conference-paper
