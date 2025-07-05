@@ -25,7 +25,7 @@ Education Background
 - ​**Advisor**: [Prof. Yu Cao](https://www.uml.edu/sciences/computer-science/people/cao-yu.aspx), [Prof. Benyuan Liu](https://www.uml.edu/research/chords/faculty/liu-benyuan.aspx)   
 - ​**Research Focus**:  
   ✓ Multimodal medical image analysis  
-  ✓ Computer Vision
+  ✓ Computer Vision  
   ✓ Human Pose Estimation   
 
 ### ​**M.Sc. in Electrical and Computer Engineering**​  
