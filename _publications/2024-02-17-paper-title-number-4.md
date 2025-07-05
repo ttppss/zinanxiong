@@ -1,5 +1,6 @@
 ---
 title: "Improving gastric lesion detection with synthetic images from diffusion models"
+authors: ["Yanhua Si", "Yingyun Yang", "Qilei Chen", "Zinan Xiong", "Yu Cao", "Xinwen Fu", "Benyuan Liu", "Aiming Yang"]
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
