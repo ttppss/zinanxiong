@@ -1,5 +1,6 @@
 ---
 title: "Deep learning for gastric location classification: An analysis of location boundaries and improvements through attention and contrastive learning"
+authors: ["Chenxi Zhang", "Alexander Ding", "Zhehong Fu", "Jing Ni", "Qilei Chen", "Zinan Xiong", "Benyuan Liu", "Yu Cao", "Shuijiao Chen", "Xiaowei Liu"]
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
