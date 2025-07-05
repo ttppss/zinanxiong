@@ -1,7 +1,7 @@
 ---
 title: "Colorectal polyp detection in real-world scenario: Design and experiment study"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2020-11-09-conference-paper
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-11-09
