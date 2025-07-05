@@ -1,7 +1,7 @@
 ---
 title: "Swin-Pose: Swin Transformer Based Human Pose Estimation"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-01-19-conference-paper
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-01-19
