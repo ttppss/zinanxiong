@@ -15,26 +15,6 @@ Beyond his technical contributions, Dr. Xiong actively participates in the ​AI
 
 Education Background
 ======
-### ​**Ph.D. in Computer Science**​  
-*University of Massachusetts Lowell, MA, USA*  
-`2019 - 2025`   
-- ​**Advisor**: [Prof. Yu Cao](https://www.uml.edu/sciences/computer-science/people/cao-yu.aspx), [Prof. Benyuan Liu](https://www.uml.edu/research/chords/faculty/liu-benyuan.aspx)   
-- ​**Research Focus**:  
-  ✓ Multimodal medical image analysis  
-  ✓ Computer Vision  
-  ✓ Human Pose Estimation   
-
-### ​**M.Sc. in Electrical and Computer Engineering**​  
-*Northeastern University, MA, USA*  
-`2013 - 2016`   
-
-### ​**B.Eng. in Electrical Engineering**​  
-*Beijing University of Chemical Technology, Beijing, China*  
-`2009 - 2013`
-
-## Education Background
-{: .text-center}
-
 <div class="education-timeline">
 
 ### <i class="fas fa-graduation-cap"></i> Ph.D. in Computer Science  
@@ -70,3 +50,26 @@ Education Background
 </div>
 
 </div>
+
+
+### ​**Ph.D. in Computer Science**​  
+*University of Massachusetts Lowell, MA, USA*  
+`2019 - 2025`   
+- ​**Advisor**: [Prof. Yu Cao](https://www.uml.edu/sciences/computer-science/people/cao-yu.aspx), [Prof. Benyuan Liu](https://www.uml.edu/research/chords/faculty/liu-benyuan.aspx)   
+- ​**Research Focus**:  
+  ✓ Multimodal medical image analysis  
+  ✓ Computer Vision  
+  ✓ Human Pose Estimation   
+
+### ​**M.Sc. in Electrical and Computer Engineering**​  
+*Northeastern University, MA, USA*  
+`2013 - 2016`   
+
+### ​**B.Eng. in Electrical Engineering**​  
+*Beijing University of Chemical Technology, Beijing, China*  
+`2009 - 2013`
+
+## Education Background
+{: .text-center}
+
+
