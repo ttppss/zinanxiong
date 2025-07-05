@@ -1,5 +1,5 @@
 ---
-title: "Swin-Pose: Swin Transformer Based Human Pose Estimation"
+title: "Adaptify: A Refined Test-Time Adaptation Scheme for Frame Classification Consistency in Atrophic Gastritis Videos"
 collection: publications
 category: conferences
 permalink: /publication/2024-05-27-conference-paper
