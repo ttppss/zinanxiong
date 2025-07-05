@@ -31,3 +31,42 @@ Education Background
 ### ​**B.Eng. in Electrical Engineering**​  
 *Beijing University of Chemical Technology, Beijing, China*  
 `2009 - 2013`
+
+## Education Background
+{: .text-center}
+
+<div class="education-timeline">
+
+### <i class="fas fa-graduation-cap"></i> Ph.D. in Computer Science  
+**University of M, MA, USA**  
+`2019 - 2020`  
+<div class="education-details">
+- **Advisor**: Prof. A. B  
+- **Research Focus**:  
+  <span class="research-tag"><i class="fas fa-images"></i> Multimodal medical image analysis</span>  
+  <span class="research-tag"><i class="fas fa-eye"></i> Computer Vision</span>  
+  <span class="research-tag"><i class="fas fa-user"></i> Human Pose Estimation</span>  
+- **Thesis**: "Deep Learning Approaches for Medical Image Analysis"  
+</div>
+
+---
+
+### <i class="fas fa-university"></i> M.Sc. in Electrical and Computer Engineering  
+**N University, MA, USA**  
+`2015 - 2016`  
+<div class="education-details">
+- **GPA**: 3.9/4.0  
+- **Key Courses**: Advanced Machine Learning, Computer Vision Systems  
+</div>
+
+---
+
+### <i class="fas fa-atom"></i> B.Eng. in Electrical Engineering  
+**B Technology, Beijing, China**  
+`2002 - 2005`  
+<div class="education-details">
+- **Honors**: Summa Cum Laude  
+- **Senior Project**: "Embedded System Design for IoT Applications"  
+</div>
+
+</div>
