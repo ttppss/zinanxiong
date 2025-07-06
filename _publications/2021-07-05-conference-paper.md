@@ -1,6 +1,6 @@
 ---
 title: "Lower body rehabilitation dataset and model optimization"
-authors: ["Chenxi Wang", "Ying Li", "Zinan Xiong", "Yan Luo", "Yu Cao"]
+authors: ["Chenxi Wang", "Ying Li", "Zinan Xiong(co-first author)", "Yan Luo", "Yu Cao"]
 collection: publications
 category: conferences
 permalink: /publication/2021-07-05-conference-paper
