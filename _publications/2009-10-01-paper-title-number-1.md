@@ -1,6 +1,6 @@
 ---
 title: "Automated disease detection in gastroscopy videos using convolutional neural networks"
-authors: ["Chenxi Zhang", "Zinan Xiong", "Shuijiao Chen", "Alex Ding", "Yu Cao", "Benyuan Liu", "Xiaowei Liu"]
+authors: ["Chenxi Zhang", "Zinan Xiong(co-first author)", "Shuijiao Chen", "Alex Ding", "Yu Cao", "Benyuan Liu", "Xiaowei Liu"]
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
